@@ -4,7 +4,7 @@ export default function Imgshowcase(){
             <div className="container-fluid p-0">
                 <div className="row g-0">
                     <div className="col-lg-6 order-lg-2 text-white showcase-img">
-                        <img src="../../../public/img/bg-showcase-1.jpg"/>
+                        <img src="../public/img/bg-showcase-1.jpg"/>
                     </div>
                     <div className="col-lg-6 order-lg-1 my-auto showcase-text">
                         <h2>Fully Responsive Design</h2>
