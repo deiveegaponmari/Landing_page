@@ -4,7 +4,7 @@ export default function Imgshowcase(){
             <div className="container-fluid p-0">
                 <div className="row g-0">
                     <div className="col-lg-6 order-lg-2 text-white showcase-img">
-                        <img src="../public/img/bg-showcase-1.jpg"/>
+                        <img src="/img/bg-showcase-1.jpg"/>
                     </div>
                     <div className="col-lg-6 order-lg-1 my-auto showcase-text">
                         <h2>Fully Responsive Design</h2>
@@ -13,7 +13,7 @@ export default function Imgshowcase(){
                 </div>
                 <div className="row g-0">
                     <div className="col-lg-6 text-white showcase-img" >
-                    <img src="../../../public/img/bg-showcase-2.jpg"/> 
+                    <img src="/img/bg-showcase-2.jpg"/> 
                     </div>
                     <div className="col-lg-6 my-auto showcase-text">
                         <h2>Updated For Bootstrap 5</h2>
@@ -22,7 +22,7 @@ export default function Imgshowcase(){
                 </div>
                 <div className="row g-0">
                     <div className="col-lg-6 order-lg-2 text-white showcase-img">
-                    <img src="../../../public/img/bg-showcase-3.jpg"/> 
+                    <img src="/img/bg-showcase-3.jpg"/> 
                     </div>
                     <div className="col-lg-6 order-lg-1 my-auto showcase-text">
                         <h2>Easy to Use & Customize</h2>
